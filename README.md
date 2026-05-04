@@ -1,2 +1,16 @@
-# parkinson_detector_Mobile_UI
-A modern, cross-platform mobile/desktop application that predicts Parkinson’s Disease risk using vocal fundamental frequency (MDVP:Fo(Hz)). Built with Flutter, featuring glass‑morphism design, smooth animations, haptic feedback, and an in‑memory prediction history.
+# parkinson_detector
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
